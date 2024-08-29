@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+font-family: "poppins", sans-serif;
+background-color: black;
+}
+
+HTML {
+    scroll-behavior: smooth;
+}
+
+#Profile-Pic img {
+    width: 20%;
+    border-color: gray;
+    border-style: solid;
+    position: relative;
+    left: 10rem;
+    top: 15rem;
+    object-fit: cover;
+    margin: 0;
+    padding: 0;
+}
+
+/* #Profile-Pic img {
+    width: 20%;
+    height: auto;
+    position: relative;
+    left: 10rem;
+    top: 15rem;
+} */
+
+#basic-info h1 {
+    color: white;
+    position: relative;
+    left: 40rem;
+    bottom: 3rem;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+#basic-info h2 {
+    color: #19D3DA;
+    font-size: 150px;
+    position: relative;
+    left: 44.5rem;
+    bottom: 14rem;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    font-family: "poppins", sans-serif
+}
+#basic-info h3 {
+    color: #19D3DA;
+    font-size: 150px;
+    position: relative;
+    left: 39.5rem;
+    bottom: 20rem;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    font-family: "poppins", sans-serif
+}
+
+#basic-info h4 {
+    color: white;
+    position: relative;
+    left: 67.3rem;
+    bottom: 26rem;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    font-size: 30px;
+}
+
+#basic-info {
+    position: relative;
+    top: 1rem;
+}
+
+#side-pic1 {
+    position: relative;
+    left: 90rem;
+    margin: 0;
+    padding: 0;
+    border-style: none;
+}
